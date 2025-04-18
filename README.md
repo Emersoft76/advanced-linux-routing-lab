@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Status-100%25%20Completed-brightgreen?style=for-the-badge&logo=github" alt="Project Status Badge"/>
 </p>
 
+---
+
 ## 🔍 Visão Geral / Lab Overview
 
 Ambiente de laboratório voltado à prática de roteamento em Linux com múltiplos cenários reais, configurando NAT, PBR, e OSPF com ferramentas amplamente usadas na indústria.
