@@ -51,6 +51,6 @@ sudo bash nat_config.sh
 
 ## 📘 Próximo passo sugerido
 
-    Adicionar logs e monitoramento com tcpdump
+* Adicionar logs e monitoramento com tcpdump
 
-    Criar failover para múltiplos links com ip route
+* Criar failover para múltiplos links com ip route
