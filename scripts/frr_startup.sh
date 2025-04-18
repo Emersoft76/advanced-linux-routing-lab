@@ -1,4 +1,3 @@
-```bash
 #!/bin/bash
 
 # frr_startup.sh – Configuração rápida do OSPF via FRRouting
@@ -30,4 +29,3 @@ systemctl restart frr
 systemctl enable frr
 
 echo "✔️ FRRouting com OSPF configurado com sucesso!"
-```
