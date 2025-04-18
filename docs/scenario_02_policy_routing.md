@@ -58,6 +58,6 @@ sudo bash policy_routing.sh
 
 ## 📘 Próximo passo sugerido
 
-    Adicionar NAT para as redes LAN com iptables
+* Adicionar NAT para as redes LAN com iptables
 
-    Monitorar rotas com ip route show table [table]
+* Monitorar rotas com ip route show table [table]
