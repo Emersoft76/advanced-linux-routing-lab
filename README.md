@@ -10,7 +10,9 @@
   <a href="https://www.frrouting.org/"><img src="https://img.shields.io/badge/FRRouting-OSPF%2FBGP-green?style=for-the-badge"/></a>
   <a href="https://gns3.com/"><img src="https://img.shields.io/badge/GNS3-Network%20Emulator-orange?style=for-the-badge"/></a>
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-100%25%20Completed-brightgreen?style=for-the-badge&logo=github" alt="Project Status Badge"/>
+</p>
 ---
 
 ## 🔍 Visão Geral / Lab Overview
