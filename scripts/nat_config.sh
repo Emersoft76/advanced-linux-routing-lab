@@ -1,4 +1,3 @@
-```bash
 #!/bin/bash
 
 # nat_config.sh – Configuração de NAT e roteamento para gateway Ubuntu
