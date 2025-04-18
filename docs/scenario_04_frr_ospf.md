@@ -24,7 +24,8 @@ In this scenario, two Ubuntu servers use FRRouting with OSPF to automatically sh
 ## 📂 Arquivos de configuração
 
 - `/etc/frr/daemons`  
-  Ativar os serviços OSPF: ospfd=yes
+  Ativar os serviços OSPF:
+  ospfd=yes
 
 - `/etc/frr/frr.conf`
 
