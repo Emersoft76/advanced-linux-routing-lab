@@ -31,3 +31,4 @@ Diagramas simples para ilustrar cada cenário do laboratório.
 ## 📡 Cenário 04 – OSPF com FRR
 [ LAN A ]—[ Ubuntu R1 ]←→ OSPF ←→[ Ubuntu R2 ]—[ LAN B ] 192.168.10.0/24 10.0.0.1 10.0.0.2 192.168.20.0/24
 
+---
