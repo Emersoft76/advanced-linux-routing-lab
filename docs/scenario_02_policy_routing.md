@@ -49,7 +49,12 @@ Adicione no arquivo `/etc/iproute2/rt_tables`:
     ip rule add from 192.168.10.0/24 table wan1
     ip rule add from 192.168.20.0/24 table wan2
 
----
+## ▶️ Execução via script
+
+Utilize o script policy_routing.sh para aplicar rapidamente:
+```bash
+sudo bash policy_routing.sh
+```
 
 ## 📘 Próximo passo sugerido
 
