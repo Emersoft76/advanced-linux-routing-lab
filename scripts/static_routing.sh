@@ -1,4 +1,3 @@
-```bash
 #!/bin/bash
 
 # static_routing.sh – Configuração de roteamento estático no Ubuntu
@@ -13,4 +12,3 @@ ip a | grep -E "enp|eth"
 echo "➤ Certifique-se de que as interfaces estão com IPs estáticos atribuídos via Netplan."
 
 echo "➤ Configuração concluída. Adicione rotas nos clientes da LAN para garantir comunicação cruzada."
-```
