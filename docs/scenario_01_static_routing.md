@@ -42,8 +42,9 @@ sudo ip route add 192.168.20.0/24 via 192.168.10.1
 
 # Em PC2:
 sudo ip route add 192.168.10.0/24 via 192.168.20.1
+```
 
-▶️ Execução via script
+## ▶️ Execução via script
 
 Você pode usar o script static_routing.sh para aplicar as configurações rapidamente no Ubuntu Server.
 ```bash
