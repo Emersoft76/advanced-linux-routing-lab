@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-100%25%20Completed-brightgreen?style=for-the-badge&logo=github" alt="Project Status Badge"/>
 </p>
----
 
 ## 🔍 Visão Geral / Lab Overview
 
