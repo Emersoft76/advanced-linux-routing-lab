@@ -1,3 +1,4 @@
+```bash
 #!/bin/bash
 
 # policy_routing.sh – Configuração de roteamento com políticas (PBR)
@@ -15,3 +16,4 @@ ip rule add from 192.168.10.0/24 table wan1
 ip rule add from 192.168.20.0/24 table wan2
 
 echo "✔️ Política de roteamento aplicada com sucesso."
+```
