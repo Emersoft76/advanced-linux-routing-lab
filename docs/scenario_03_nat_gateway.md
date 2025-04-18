@@ -35,18 +35,18 @@ iptables -t nat -A POSTROUTING -o enp0s8 -j MASQUERADE
 # Permitir encaminhamento
 iptables -A FORWARD -i enp0s3 -o enp0s8 -j ACCEPT
 iptables -A FORWARD -i enp0s8 -o enp0s3 -m state --state RELATED,ESTABLISHED -j ACCEPT
+```
 
 ## 💾 Tornar regras persistentes
-
+```bash
 sudo apt install iptables-persistent
 sudo netfilter-persistent save
-
+```
 ## ▶️ Execução via script
-
 Utilize o script nat_config.sh:
-
+```bash
 sudo bash nat_config.sh
-
+```
 ---
 
 ## 📘 Próximo passo sugerido
