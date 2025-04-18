@@ -1,7 +1,3 @@
----
-
-### ✅ `scripts/nat_config.sh`
-
 ```bash
 #!/bin/bash
 
