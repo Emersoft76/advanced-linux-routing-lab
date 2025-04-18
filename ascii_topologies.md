@@ -7,7 +7,9 @@ Diagramas simples para ilustrar cada cenário do laboratório.
 
 ## 🗺️ Cenário 01 – Roteamento Estático
 [ LAN 1 ] [ Ubuntu Router ] [ LAN 2 ] 192.168.10.0/24 ←→ enp0s3 [ Ubuntu ] enp0s8 ←→ 192.168.20.0/24 PC1 (routing) PC2
+
 ---
+
 ## 🧭 Cenário 02 – PBR (Policy-Based Routing)
          +----------------------------+
          |     Ubuntu PBR Router     |
@@ -23,6 +25,7 @@ Diagramas simples para ilustrar cada cenário do laboratório.
 
 ## 🌐 Cenário 03 – NAT Gateway
 [ LAN: 192.168.50.0/24 ] ←→ [ Ubuntu NAT Router ] ←→ [ Internet ] enp0s3 enp0s8 (WAN)
+
 ---
 
 ## 📡 Cenário 04 – OSPF com FRR
