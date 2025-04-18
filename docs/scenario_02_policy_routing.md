@@ -41,13 +41,13 @@ Adicione no arquivo `/etc/iproute2/rt_tables`:
 
 ## 🔧 Comandos principais:
 
-# Cria rotas para cada tabela
-ip route add default via 10.0.0.1 dev enp0s9 table wan1
-ip route add default via 10.1.0.1 dev enp0s10 table wan2
+    # Cria rotas para cada tabela
+    ip route add default via 10.0.0.1 dev enp0s9 table wan1
+    ip route add default via 10.1.0.1 dev enp0s10 table wan2
 
-# Cria regras por origem de tráfego
-ip rule add from 192.168.10.0/24 table wan1
-ip rule add from 192.168.20.0/24 table wan2
+    # Cria regras por origem de tráfego
+    ip rule add from 192.168.10.0/24 table wan1
+    ip rule add from 192.168.20.0/24 table wan2
 
 ---
 
